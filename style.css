@@ -23,7 +23,7 @@ html {
   height: 100vh;
   background: url(img/bg.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 
 overflow: hidden;
 
